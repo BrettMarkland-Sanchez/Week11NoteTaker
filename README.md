@@ -2,6 +2,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   Utilizes Express server to store user modifications for a notepad application.
+  ## Deployment
+  https://bms-note-taker.herokuapp.com/
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
