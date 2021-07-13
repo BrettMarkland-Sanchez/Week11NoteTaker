@@ -1,5 +1,6 @@
 // Dependencies
 const express = require('express');
+const index = require('./public/assets/js/index.js')
 
 // Creates the Express app and defines the port
 const app = express();
