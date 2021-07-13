@@ -13,4 +13,4 @@ require('./routes/apiRoutes')(app);
 require('./routes/htmlRoutes')(app);
 
 // Starts the App Listener
-app.listen(PORT, () => console.log("Server running on port: ", PORT));
+app.listen(process.env.PORT || PORT, () => console.log("Server running on port: ", PORT));
